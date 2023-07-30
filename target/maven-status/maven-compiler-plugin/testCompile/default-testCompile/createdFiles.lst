@@ -1,0 +1,11 @@
+TestCases\GitubAPIRead.class
+TestCases\TestCasr_registration.class
+TestCases\TestNgTestCases2.class
+Config\BaseClass.class
+TestCases\WebTable.class
+TestCases\SelectTag.class
+TestCases\TestNgTestCases.class
+TestCases\Calender.class
+ObjectClass\RegistrationPOM.class
+TestCases\ExcelFileReader.class
+TestCases\Frame.class
